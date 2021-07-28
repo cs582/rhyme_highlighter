@@ -52,6 +52,7 @@ public class program{
 			}
 			bw.write("</body>\n");
 			bw.close();
+			System.out.println(htmlFile + " has been created.");
 		}
 		//catch the exception if any   
 		catch (Exception e)   
