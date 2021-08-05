@@ -20,6 +20,6 @@ The second function <code>mapRhymes</code> makes three different processes.
 
 # How to use?
 
-In order to use it, you should frist compile <code>program.java</code>, and then run the program and giving the <code>txt</code> file you choose, for exmaple <code>program your_lyrics.txt</code>.
+In order to use it, you should frist compile <code>program.java</code>, and then run the program and give the <code>txt</code> file you choose, for exmaple <code>program your_lyrics.txt</code>.
 
 After you run the program it should print <code>rhymes//your_lyrics.html has been created.</code> and you can find an html file with the lyrics and the words that rhyme with each other highlighted with different colors.
